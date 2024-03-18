@@ -1,12 +1,16 @@
 # -
 高校人才网自动爬取最新院校招聘信息并推送到企业微信机器人
 ## windows
-### 任务计划程序定时运行
+使用任务计划程序定时运行
 
 ## linux 
-### crontab 定时运行
+使用crontab 定时运行
+
+## github action
+有能力可以自己弄，俺不会搞
 
 
+## 需修改参数如下：
 ```python
 url = '*********'# 企业微信机器人webhookurl 获取教程 https://open.work.weixin.qq.com/help2/pc/14931?person_id=1&is_tencent=
 majorId=59# 专业代码 可以从高校人才网页面获取 https://www.gaoxiaojob.com/job?majorId=59&educationType=3&isFresh=1
