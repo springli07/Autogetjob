@@ -26,4 +26,8 @@ cookies=*** # 登陆后以从高校人才网页面获取 https://www.gaoxiaojob.
 
 ## 请勿滥用 
 
+推送效果
+![image](https://github.com/springli07/-/assets/88776750/73508fcf-939f-4099-9a34-bdeffc681029)
+
+
 
